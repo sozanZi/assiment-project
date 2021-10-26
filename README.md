@@ -7,6 +7,6 @@
 
 * distance education :wave:
 
-![] (img/bg.jpg)
+![ ] (img/bg.jpg)
 
-[to learn more click here] 
+[to learn more click here] (https://github.com/sozanZi/assiment-project)  :ok_hand:
