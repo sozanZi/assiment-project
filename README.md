@@ -5,5 +5,8 @@
 
 -- The site explains the impact of distance education
 
-* distance education *
+* distance education :wave:
 
+![] (img/bg.jpg)
+
+[to learn more click here] 
